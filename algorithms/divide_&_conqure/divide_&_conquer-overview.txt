@@ -1,0 +1,11 @@
+Divide And Conquer 
+This technique can be divided into the following three parts:
+
+1.Divide: This involves dividing the problem into smaller some sub-problems.
+2.Conquer: Solve all some sub-problems by calling recursively until solved.
+3.Combine: Combine the all some sub-problems to get the final solution of the whole problem.
+
+
+e.g. QuickSort (O(n²)),MergeSort(O(nlogn)) but still QuickSort is fast algorithm as compare to merge sort.We will cover this also in this Divide and conquer.
+
+e.g. Binary Search(Partial Divide and Conquer technique)

@@ -1,0 +1,1 @@
+Queue is a data structue that always follow the first in first out(FIFO).But we can make queue first in last out.

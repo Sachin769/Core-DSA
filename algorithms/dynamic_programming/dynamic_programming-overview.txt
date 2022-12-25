@@ -1,0 +1,1 @@
+In Dynamic Programming if we write a simple recursive solution for Fibonacci Numbers, we get exponential time complexity and if we optimize it by storing solutions of subproblems, time complexity reduces to linear.

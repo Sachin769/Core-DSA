@@ -1,0 +1,3 @@
+Array is an homogenous (c/c++) for some language and heterogenous(javascript) for some language.It is linear data structure. Generally array is used when if we want some information at a time at same place and same functionality is used in the all collective data.
+
+Array is 1D and 2D and multi D.Here we will cover which loop write first which not even all way giving same answer referecne mit lecture

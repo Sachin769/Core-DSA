@@ -1,0 +1,1 @@
+Greedy algorithms do not always yield optimal solution, but for many problems they do.

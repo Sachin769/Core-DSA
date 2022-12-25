@@ -1,0 +1,1 @@
+Hash tables is used to make search optimization is O(1) Like googel search engine

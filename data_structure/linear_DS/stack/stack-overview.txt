@@ -1,0 +1,1 @@
+Stack is a linear data structure that follow last in first out(FIFO).
